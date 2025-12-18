@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591934462902",
+    "project_id": "madlap5-45858",
+    "storage_bucket": "madlap5-45858.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591934462902:android:8b0440836d9e77024aff17",
+        "android_client_info": {
+          "package_name": "com.cscorner.expenensetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr-wqxjnqXzPxnUTiBTEXK1aimziQ3bjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

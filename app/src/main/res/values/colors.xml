@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Color Palette - Professional Blue Theme -->
+    <color name="primary_dark_green">#037E04</color>
+    <color name="primary_very_dark">#055F05</color>
+    <color name="primary_green">#3ACC3E</color>
+    <color name="primary_light_green">#7FE081</color>
+    <color name="secondary_green">#1EAB24</color>
+    <color name="accent_green">#11D914</color>
+    <color name="light_green_bg">#D1E9D6</color>
+
+    <!-- Neutral Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_light">#F3F4F6</color>
+    <color name="gray_medium">#9CA3AF</color>
+    <color name="gray_dark">#374151</color>
+    <color name="gray_darker">#1F2937</color>
+
+    <!-- Background Colors -->
+    <color name="background_white">#FFFFFF</color>
+    <color name="background_light">#F9FAFB</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- Button States -->
+    <color name="button_primary">#297C2D</color>
+    <color name="button_primary_pressed">#0AF214</color>
+    <color name="button_disabled">#DBEAFE</color>
+
+    <!-- Status Colors -->
+    <color name="success_green">#0AFA14</color>
+    <color name="error_red">#E92828</color>
+    <color name="warning_yellow">#EBB04E</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#506FB3</color>
+    <color name="text_secondary">#6565E2</color>
+    <color name="text_hint">#141C45</color>
+
+    <!-- Border Colors -->
+    <color name="border_light">#E5E7EB</color>
+    <color name="border_medium">#D1D5DB</color>
+
+    <!-- Material Design defaults -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#673AB7</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+</resources>
